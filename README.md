@@ -37,5 +37,5 @@ If GCC is not available, you can use an online C compiler such as:
 
 ### Option 2: Compile with GCC locally
 ```bash
-gcc rpssl.c
-rpssl.exe 
+gcc main.c
+a.exe 
