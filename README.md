@@ -24,7 +24,7 @@ Invalid inputs (both in the menu and shape selection) are handled with error mes
 ---
 
 ## Files
-- `rpssl.c` → Source code of the game  
+- `main.c` → Source code of the game  
 - `README.md` → This documentation  
 
 ---
